@@ -65,6 +65,14 @@ Evaluate the online shoe sales strategies of Nike and Adidas to see who has been
 ![image](https://user-images.githubusercontent.com/70718724/119279767-a7f84200-bbe2-11eb-9d24-6ec04cde618f.png)
 
 
+## Our Key Take Aways:
+![image](https://user-images.githubusercontent.com/70718724/119279959-ae3aee00-bbe3-11eb-9eb2-600183f7bdbe.png)
+![image](https://user-images.githubusercontent.com/70718724/119279963-b7c45600-bbe3-11eb-9e35-59961a813eaa.png)
+
+![image](https://user-images.githubusercontent.com/70718724/119279977-d3c7f780-bbe3-11eb-8739-d769d5013f97.png)
+![image](https://user-images.githubusercontent.com/70718724/119279979-d7f41500-bbe3-11eb-868c-ea66b7a89603.png)
+
+
 #### Data Source
   > https://www.kaggle.com/kaushiksuresh147/adidas-vs-nike
 
