@@ -40,13 +40,13 @@ Evaluate the online shoe sales strategies of Nike and Adidas to see who has been
 
 ![image](https://user-images.githubusercontent.com/70718724/119279395-5353c780-bbe0-11eb-9395-a91657f8a9a4.png)
 
-#### Adidas vs Nike Product Rating Graph
+#### Adidas vs Nike Avg Product Rating Graph
 
 ![image](https://user-images.githubusercontent.com/70718724/119279623-bdb93780-bbe1-11eb-82f3-6d663a8b5f0c.png)
 
 
 
-#### Adidas vs Nike Product Review Count Graph
+#### Adidas vs Nike Avg Product Review Count Graph
 
 ![image](https://user-images.githubusercontent.com/70718724/119279627-c1e55500-bbe1-11eb-8ed9-ecf0c2dbed5f.png)
 
@@ -54,6 +54,15 @@ Evaluate the online shoe sales strategies of Nike and Adidas to see who has been
 #### Adidas Vs Nike Discount % by Gender
 
 ![image](https://user-images.githubusercontent.com/70718724/119279664-07a21d80-bbe2-11eb-9c75-e398b29f5898.png)
+
+#### Distribution of Adidas Sales by MSRP
+
+![image](https://user-images.githubusercontent.com/70718724/119279758-9dd64380-bbe2-11eb-81d9-00b0f6fe431e.png)
+
+
+#### Distribution of Nike Sales by MSRP
+
+![image](https://user-images.githubusercontent.com/70718724/119279767-a7f84200-bbe2-11eb-9d24-6ec04cde618f.png)
 
 
 #### Data Source
