@@ -30,7 +30,7 @@ Evaluate the online shoe sales strategies of Nike and Adidas to see who has been
 
 ![image](https://user-images.githubusercontent.com/70718724/119279356-0c65d200-bbe0-11eb-8f1d-54b1b12c83e4.png)
 
-![image](https://user-images.githubusercontent.com/70718724/119279372-29020a00-bbe0-11eb-879b-c5839ba71ec8.png)
+![image](https://user-images.githubusercontent.com/70718724/119279465-c8bf9800-bbe0-11eb-8d97-dd8b98534fcc.png)
 
 
 #### Adidas and Nike Review Count Summary Tables (Respectively) 
@@ -40,6 +40,14 @@ Evaluate the online shoe sales strategies of Nike and Adidas to see who has been
 
 ![image](https://user-images.githubusercontent.com/70718724/119279395-5353c780-bbe0-11eb-9395-a91657f8a9a4.png)
 
+#### Adidas vs Nike Product Rating Graph
+
+![image](https://user-images.githubusercontent.com/70718724/119279523-1f2cd680-bbe1-11eb-80b4-cc076d3199c5.png)
+
+
+#### Adidas vs Nike Product Review Count Graph
+
+![image](https://user-images.githubusercontent.com/70718724/119279533-2b189880-bbe1-11eb-9062-ff566123e484.png)
 
 
 #### Data Source
